@@ -149,6 +149,12 @@ public class vervetSimulation extends PApplet {
 		fill(255,255,255);
 		text("LINGUAGEM", 1120, 165);
 		
+		textSize(15);
+		fill(255,255,255);
+		text("Cobra - Tigre - Águia", 1120, 185);
+		
+		
+		textSize(24);
 		fill(255,255,255);
 		text("Macaco 1", 1120, 230);
 		
