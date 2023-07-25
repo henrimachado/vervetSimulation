@@ -1,3 +1,13 @@
+/*
+ * SIMULAÇÃO DE COMUNICAÇÃO ENTRE MACACOS VERVETS
+ * @author Mateus Henrique Machado
+ * @author Iago Mateus Ávila Fernandes
+ * @authot Lucas Alexsander Barbosa Cruz
+ * @version 1.0
+ * @since 25-07-2023
+ * */
+
+
 package Default;
 
 import Entidades.*;
