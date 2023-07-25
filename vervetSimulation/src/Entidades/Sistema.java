@@ -8,7 +8,6 @@ import java.io.IOException;
 
 
 
-
 public class Sistema {
 
 	public static int i = 0;
@@ -88,7 +87,7 @@ public class Sistema {
 				this.movimentarAgentes();
 				//this.resultado();
 				//System.out.println("\n");
-				Thread.sleep(40);
+				Thread.sleep(50);
 
 			} while (this.convergencia() == false);
 			//System.out.println("Resultado final");
