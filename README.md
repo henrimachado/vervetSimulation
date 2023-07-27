@@ -44,6 +44,7 @@
 <br>
 <p align = "center">
 <img src= "vervetSimulation/imgs/sim_vervet_monkeys.gif">
+<br>
 Exemplo de convergência léxica no programa.
 </p>
 
